@@ -10,7 +10,7 @@
 ![image](https://github.com/user-attachments/assets/a0e22441-cf38-4ee7-a51c-18933b721310) <br>
 
 ### ✅ Step 2: Add Roles and Features
-- Right click on domain `superfriends.local` and choose New> Organizational User (OU) <br>
+- Right click on domain `superfriends.local` and choose New> Organizational Unit (OU) <br>
   ![image](https://github.com/user-attachments/assets/855fc326-efc5-46e1-897b-765b7085efc5) <br>
 - The OU was named Hall of Justice in order to separate Heroes and Villains between GUI and Powershell <br>
   ![image](https://github.com/user-attachments/assets/71d6148e-dc4a-453a-b7e3-3437669d42de) <br>
