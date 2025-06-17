@@ -9,7 +9,7 @@
   ![image](https://github.com/user-attachments/assets/437bf7d7-52a4-449a-8201-e31cdcd96d66)
 - By using the command Get-ADDomain we can pull the information of our newly created Domain.
   ![image](https://github.com/user-attachments/assets/782861d9-1503-42d9-b328-08402b7be555)
-- Next step will be for us to add our Organizational User (OU) in the `legionofdoom.local` Domain
+- Next step will be for us to add our Organizational Unit (OU) in the `legionofdoom.local` Domain
   ![image](https://github.com/user-attachments/assets/46007646-289d-498a-b7e1-c0b7478ea0bf)
 - To verify we can use "Get-ADOrganizationalUnit -Filter ' Name -like "*" '| Format-table Name
 - The script will then give us the name of our newly created OU
