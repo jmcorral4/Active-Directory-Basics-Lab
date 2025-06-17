@@ -3,6 +3,7 @@
 ### ✅ Step 1: Open Server Manager
 - Click the Windows Start icon
 - Open **Server Manager**
+- The lab required us to Deploy the ADDS
 
 ![image](https://github.com/user-attachments/assets/c1a2b3f1-2396-400e-9e47-6c5040ac90a5) <br>
 ![image](https://github.com/user-attachments/assets/69e58729-da44-4c71-9719-3dd6e90b2729) <br>
